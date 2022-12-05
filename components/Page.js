@@ -1,9 +1,9 @@
-export default function Page({ children, cool }) {
+import Header from './Header';
+
+export default function Page() {
   return (
     <div>
-      <h1>The Page Component</h1>
-      <h2>{children}</h2>
-      <p>{cool}</p>
+      <Header />
     </div>
   );
 }

@@ -65,6 +65,17 @@ module.exports = require("react");;
 "use strict";
 module.exports = require("react/jsx-dev-runtime");;
 
+/***/ }),
+
+/***/ "styled-components":
+/*!************************************!*\
+  !*** external "styled-components" ***!
+  \************************************/
+/***/ (function(module) {
+
+"use strict";
+module.exports = require("styled-components");;
+
 /***/ })
 
 };

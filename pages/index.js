@@ -1,9 +1,5 @@
-import Page from '../components/Page';
+import ProductsPage from './products';
 
-export default function IndexPage() {
-  return (
-    <div>
-      <p>Hello</p>
-    </div>
-  );
-}
+export default ProductsPage;
+
+// export {default} from './products';
